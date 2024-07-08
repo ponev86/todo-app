@@ -19,8 +19,8 @@ ToDo App — это простое и удобное приложение для
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/<username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/ponev86/todo-app.git
+   cd todo-app
    ```
 
 2. Установите зависимости:
@@ -36,11 +36,3 @@ ToDo App — это простое и удобное приложение для
    ```
 
 Приложение будет доступно по адресу `http://localhost:3000`.
-
-## Развертывание на GitHub Pages
-
-Для развертывания приложения на GitHub Pages выполните следующую команду:
-
-```bash
-npm run deploy
-```
